@@ -1,0 +1,50 @@
+<resources>
+    <string name="select_profile">Seleccionar Perfil</string>
+    <string name="existing_profiles">Perfiles Existentes</string>
+    <string name="select_profile_button">Usar Perfil</string>
+    <string name="create_new_profile">Crear Nuevo Perfil</string>
+    <string name="profile_name">Nombre del perfil</string>
+    <string name="create_profile">Crear Perfil</string>
+    <string name="no_profiles">No hay perfiles. Cree uno nuevo.</string>
+    <string name="error_selecting_profile">Error al seleccionar perfil</string>
+    <string name="enter_profile_name">Ingrese un nombre de perfil</string>
+    <string name="profile_created">Perfil creado exitosamente</string>
+    <string name="profile_exists">El perfil ya existe</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <string name="total_workouts">Entrenamientos</string>
+    <string name="total_calories">Calorías</string>
+    <string name="avg_duration">Promedio</string>
+    <string name="my_workouts">Mis Entrenamientos</string>
+    <string name="add_workout">Agregar Entrenamiento</string>
+
+    <string name="workout_type">Tipo de Entrenamiento</string>
+    <string name="duration_minutes">Duración</string>
+    <string name="duration_hint">Ejemplo: 30</string>
+    <string name="duration_label">Duración</string>
+    <string name="calories">Calorías Quemadas</string>
+    <string name="calories_hint">Ejemplo: 200</string>
+    <string name="calories_label">Calorías</string>
+    <string name="distance_km">Distancia</string>
+    <string name="distance_hint">Ejemplo: 5.0</string>
+    <string name="distance_label">Distancia</string>
+    <string name="date">Fecha</string>
+    <string name="date_hint">AAAA-MM-DD</string>
+    <string name="add">Agregar</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="workout_details">Detalles del Entrenamiento</string>
+    <string name="share">Compartir</string>
+    <string name="close">Cerrar</string>
+    <string name="share_workout">Compartir entrenamiento</string>
+
+    <string name="delete">Eliminar</string>
+    <string name="delete_workout_title">Eliminar entrenamiento</string>
+    <string name="delete_workout_message">¿Deseas eliminar este entrenamiento?</string>
+
+    <string name="running">Carrera</string>
+    <string name="cycling">Ciclismo</string>
+    <string name="swimming">Natación</string>
+    <string name="yoga">Yoga</string>
+    <string name="weight_training">Entrenamiento con Pesas</string>
+</resources>
