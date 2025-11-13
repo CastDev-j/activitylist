@@ -4,9 +4,9 @@ import java.io.Serializable
 
 data class Workout(
     val type: WorkoutType,
-    val duration: Int, // en minutos
+    val duration: Int, 
     val calories: Int,
-    val distance: Double?, // en km, null para Yoga y Weight Training
+    val distance: Double?,
     val date: String
 ) : Serializable
 
